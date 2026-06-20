@@ -63,7 +63,7 @@ dependencies:
 ---
 
 ## 📂 Estrutura do Projeto
-
+```text
 lib/
 │
 ├── main.dart
@@ -78,6 +78,7 @@ lib/
 │   └── tarefas_screen.dart
 │
 └── widgets/
+```
 
 ---
 
