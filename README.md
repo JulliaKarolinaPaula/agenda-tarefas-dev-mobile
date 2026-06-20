@@ -24,13 +24,19 @@ Este projeto é uma aplicação mobile desenvolvida em Flutter com o objetivo de
 > Adicione aqui os prints solicitados pelo professor
 
 ### Tela de Login
-(Insira imagem aqui)
+
+<img width="929" height="1002" alt="Captura de tela 2026-06-20 200613" src="https://github.com/user-attachments/assets/2366d9e7-8278-4f63-999a-c5136ead17c5" />
+
 
 ### Tela de Calendário
-(Insira imagem aqui)
+
+<img width="929" height="995" alt="Captura de tela 2026-06-20 200250" src="https://github.com/user-attachments/assets/be094448-a510-4421-b2e8-1eaf277bf434" />
+
 
 ### Tela de Lista de Tarefas
-(Insira imagem aqui)
+
+<img width="925" height="1001" alt="Captura de tela 2026-06-20 200535" src="https://github.com/user-attachments/assets/e15f7201-15e1-4e1d-bedd-b224c6121c7e" />
+
 
 ---
 
