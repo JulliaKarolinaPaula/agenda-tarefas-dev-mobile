@@ -119,4 +119,4 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar:
 - Jullia Karolina de Paula
 - julliakarolinadev@gmail.com
 
-Projeto acadêmico desenvolvido em Flutter para fins educacionais.
+Projeto acadêmico desenvolvido em Flutter para fins educacionais da matéria de DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS.
