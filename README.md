@@ -59,6 +59,7 @@ dependencies:
   table_calendar: ^3.2.0
   google_fonts: ^8.1.0
 ```
+
 ---
 
 ## 📂 Estrutura do Projeto
